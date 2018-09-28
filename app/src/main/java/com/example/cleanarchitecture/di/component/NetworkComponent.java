@@ -1,4 +1,4 @@
-package com.example.cleanarchitecture.component;
+package com.example.cleanarchitecture.di.component;
 
 import com.example.cleanarchitecture.task.main.MainActivity;
 
