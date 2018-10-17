@@ -1,7 +1,7 @@
 ## CleanArchitecture
 Clean Architecture learning project for android.
 
-- Architectural Patterns : Model, Viewer, Presenter
+- Architectural Patterns : MVP(Model, Viewer, Presenter)
 - Dependency Injection : Dagger2(학습 중)
 - Reactive Programming : RxJava2
 - Network Module : Retrofit2
