@@ -1,5 +1,5 @@
 ## CleanArchitecture
-Clean Architecture learning project for android.
+안드로이드를 위한 클린 아키텍처 학습 프로젝트
 
 ## Description
 - Architectural Patterns : MVP(Model, Viewer, Presenter)
